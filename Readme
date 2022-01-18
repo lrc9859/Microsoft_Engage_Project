@@ -1,12 +1,1 @@
 Link to the project: https://microsoft-teams-clone-lavish.netlify.app
-Please go through the PPT sent with the project submission. 
-
-IMPORTANT POINTS
-
-HOW THE USERS CAN CHAT BEFORE, DURING AND AFTER THE MEETING?
-
-The Users can chat before the meeting and after the meeting in the Team chat rooms.
-The Users can chat during the meeting in the chat box in the side bar of the video call functionality page.
-
-In the video calling feature there's no TURN server so the user's are able to only connect on the same network. 
-It was clearly mentioned in the AMA-2 session held on 23rd June that this is an acceptable working prototype.
